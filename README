@@ -1,0 +1,11 @@
+To compile the ftserver.c file for this program:
+
+gcc -o ftserver ftserver.c
+
+I only tested the file with txt files. So, please only use those for grading purposes. It MAY work with other file types, but I am not sure. I did include the "rb/wb" permissions either way. 
+
+I have cited sources when necessary with line comments in my source code. However, I did get additional, general help from these sources. They include:
+
+	http://beej.us/guide/bgnet/output/html/singlepage/bgnet.html
+	http://www.linuxhowtos.org/C_C++/socket.htm
+	http://stackoverflow.com/questions/27014955/socket-connect-vs-bind
